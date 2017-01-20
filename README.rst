@@ -23,7 +23,7 @@ Features
 * Auto-release to PyPI_ when you push a new tag to master (optional)
 * Command line interface using Click (optional)
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _Cookiecutter: https://github.com/patechoc/cookiecutter
 
 Build Status
 -------------
@@ -50,7 +50,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/patechoc/cookiecutter-pypackage.git
 
 Then:
 
